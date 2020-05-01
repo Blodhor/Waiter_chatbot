@@ -1,0 +1,47 @@
+Entradas                      No  Preço
+Aneis de cebolas empanados    1    10.00
+Batata frita                  2    10.00
+Batata rústica                3    10.00
+Mandioca frita                4    10.00
+Batata frita especial         5    12.00
+
+Hambúrgueres
+Kids                          6    12.00
+Tradicional especial          7    15.00
+Da casa                       8    15.00
+Americano                     9    15.00
+Frango especial               10    15.00
+Frango crispy                 11    15.00
+Salada especial               12    15.00
+Mexicano                      13    15.00
+Cordeiro                      14    20.00
+Bacon premium                 15    22.00
+Monstro                       16    25.00
+Mignon provolone              17    25.00
+Killer                        18    30.00
+
+Sobremesas
+Milk shake                    19    12.00
+
+Bebidas
+Água                          20    4.00
+Citrus                        21    5.00
+Água tonica                   22    5.00
+Refrigerante                  23    5.00
+Aquarius fresh                24    5.00
+Água de coco                  25    6.00
+Suco de laranja               26    7.00
+Suco de abacaxi               27    7.00
+Suco de maracujá              28    7.00
+Heineken                      29    7.50
+Budweiser                     30    7.50
+Stella                        31    7.50
+Eisenbanh Pilsen              32    7.50
+Corona                        33    8.00
+Caipirinha de limão           34    15.00
+Vodka absolut dose            35    15.00
+Jack Daniels dose             36    15.00
+Black label dose              37    15.00
+Gold label dose               38    20.00
+
+Obs: Refrigerantes-> Coca-Cola,Fanta e Guarana

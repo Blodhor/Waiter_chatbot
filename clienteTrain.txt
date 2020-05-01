@@ -1,0 +1,83 @@
+cardapio-Gostaria de ver o cardápio primeiro por favor
+pedido-Gostaria de um cordeiro e uma coca, por favor
+pedido-Gostaria de um tradicional especial e uma coca, por favor
+funcionario-Vocês poderiam mandar alguém aqui para limpar a mesa
+conta-A conta por favor
+pedido-Manda uma heineken
+conta-Me traz a conta
+cardapio-O que tem no cardápio
+pedido-Quero duas porções de batata frita
+pedido-Gostaria de uma porção de batata frita, um Killer e três heinekens
+funcionario-O pedido veio errado vocês poderiam corrigir, por favor
+conta-A conta
+cardapio-Me mostra o cardápio
+pedido-Gostaria de pedir os números 30, 16 e 2
+funcionario-Poderiam chamar um funcionário aqui
+conta-A conta por gentileza
+cardapio-Me ve o cardápio, por favor
+pedido-Eu gostaria de um mignon provolone e uma água de coco
+pedido-Eu gostaria de um milk shake também
+conta-Só isso que quero, me traz a conta
+cardapio-Poderia mostrar o cardápio
+pedido-Eu gostaria de uma porção de batata frita e um milk shake, por favor
+conta-Muito obrigado, gostaria da conta por gentileza
+cardapio-Poderia me passar o cardápio
+pedido-Eu quero um número 15 e um número 2
+conta-Muito obrigada, gostaria da conta por gentileza
+cardapio-Gostaria de ver o cardápio
+pedido-Me traga por favor dois kids, um monstro e um cordeiro
+pedido-Para beber eu gostaria de dois sucos de laranja e duas caipirinhas
+conta-A conta, por gentileza
+cardapio-Gostaria de ver os preços
+pedido-Eu gostaria de cinco heineken e três doses de black label
+conta-A conta, por favor
+cardapio-Quais as minhas opções
+pedido-Gostaria de dois número 18 e duas budweiser
+funcionario-Estou com um problema
+conta-Gostaria da conta agora
+cardapio-Quais opções eu tenho
+pedido-Queremos uma água, duas coronas e três porções de aneis de cebolas empanados
+funcionario-Estou com um problema no pedido
+conta-Por favor, me traz a conta
+cardapio-Quais bedidas vocês tem
+pedido-Quero uma heineken e duas budweiser
+funcionario-Estou com um problema, chama um funcionário
+conta-A conta, por obséquio
+cardapio-Qual a sobremesa vocês tem
+pedido-Quero dois milk shakes
+funcionario-Poderiam limpar a mesa
+conta-A conta por obséquio
+cardapio-Quais são as opções de bebidas
+pedido-Gostaria de seis coronas por obséquio
+conta-Gostaria de pagar
+cardapio-Quais são as opções de cerveja
+pedido-Quero quatro eisenbanh pilsen e duas stella
+conta-Obrigado, gostaria da conta apenas
+cardapio-Quais cervejas vocês tem
+pedido-Duas stella e três heineken, por favor
+conta-Obrigado senhor robo, a conta
+cardapio-Envia o cardápio fazendo favor
+cardapio-O que tem para comer
+cardapio-O que tem de lanche
+cardapio-Gostaria de ver o menu
+cardapio-O que tem no menu
+cardapio-Poderia me mostrar o menu
+cardapio-Gostaria de ver o menu primeiro por favor
+cardapio-Por favor, gostaria do menu
+funcionario-Pode me ajudar
+funcionario-Não tem ninguém para me atender
+funcionario-Esta bosta não funciona
+funcionario-Só posso pedir por aqui
+funcionario-Só posso pedir pelo aplicativo
+conta-Quero pagar
+conta-Como faço para pagar
+conta-Preciso ir no caixa
+conta-Conta
+pedido-Manda uma água tonica e um killer
+pedido-Prepara um suco de laranja e um monstro para mim
+pedido-Prepara um bacon premium
+pedido-Faça um salada especial e me traz uma coca
+pedido-Faz uma batata rústica, um killer e me traga uma heineken
+conta-Quanto é
+conta-Quanto deu
+conta-Qual o valor total
