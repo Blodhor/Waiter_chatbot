@@ -6,6 +6,7 @@ https://scikit-learn.org/stable/
 
 
 Classifier_inductor.py : This program generates classifiers based on the well known algorithms Logistic Regression, Decision Tree and KNN.
+
   Running this will get you something like this:
     Running Inductor, this may take a few minutes ...
     8 minutes and 55.31 seconds for the Inductor to build the three classifiers
