@@ -176,7 +176,7 @@ The format is sample -> self.x ; sample class -> self.y'''
 	def user_test(self):
 		'''This is for you to test 3 intentions (i say intention because i was building a chatbot for a restaurant). As simple as that (can be used to best prepare the dataset).'''
 		metod = self.print_classificador()
-		print('Test three intentions: (If you\'d be kind, inform quantity as \'one\', \'two\', \'three\',...since 1,2,3,... are also used to indicate a menu order.)\n')
+		print('Test three intentions (if you are using my trainning file, you need to test in portuguese!): (If you\'d be kind, inform quantity as \'one\', \'two\', \'three\',...since 1,2,3,... are also used to indicate a menu order.)\n')
 		for i in range(3):
 			text = input().lower()
 			inst_text = self.vectorizer.transform([text])
