@@ -1,0 +1,6 @@
+entrada:aneis de cebola,batata frita,batata rústica,mandioca frita,batata frita especial
+hamburguer:kids,tradicional especial,tradicionais especiais,da casa,americano,frango especial,frangos especiais,frango crispy,frangos crispy,salada especial,saladas especiais,mexicano,cordeiro,bacon premium,bacon premiuns,monstro,mignon provolone,mignons provolone,killer
+sobremesa:milk shake
+bebida:água,citrus,água tonica,águas tonica,coca,coca-cola,fanta,guarana,aquarius,aquarius fresh,água de coco,águas de coco,suco de laranja,sucos de laranja,suco de abacaxi,sucos de abacaxi,suco de maracujá,sucos de maracujá,heineken,budweiser,stella,eisenbanh,pilsen,corona,caipirinha de limão,caipirinha,vodka absolut,jack daniels,black label
+num:um,uma,dois,duas,tres,três,quatro,cinco,seis,sete,oito,nove,dez
+pedido:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37
