@@ -1,14 +1,21 @@
 '''
-This is a string manipulator code, so if you change the structure of the menu (cardapio.txt) or the entity file, this will be useless.
+This is a string manipulator code, so if you change the structure of the menu (cardapio.txt) or the entity file, this will be
+useless.
 
-The main objective of this code is to correctly save info about an order from a client and to manage the bill. In summary, it's just a method for the AI to perform based on what intention it thinks the client has, i.e., if the client asks for the bill the AI will acess the info made here and saved somewhere (probably an object attribute) and use the code here to calculate the final price to pay.
+The main objective of this code is to correctly save info about an order from a client and to manage the bill. In summary, 
+it's just a method for the AI to perform based on what intention it thinks the client has, i.e., if the client asks for the 
+bill the AI will acess the info made here and saved somewhere (probably an object attribute) and use the code here to 
+calculate the final price to pay.
 
 
-This code was built to work with portuguese, if you'll be using another language for your waiter and don't know what to do, i translated to english the comments on this file to help you understand what was done.
+This code was built to work with portuguese, if you'll be using another language for your waiter and don't know what to do, i
+translated to english the comments on this file to help you understand what was done.
 '''
 
 '''
-It is really important to use the deepcopy method since python always treat variables' names as pointers. If you know another programming language like C or Java, you know what kind of undesirable mess you can make with pointers and temporary structures.
+It is really important to use the deepcopy method since python always treat variables' names as pointers. If you know another
+programming language like C or Java, you know what kind of undesirable mess you can make with pointers and temporary 
+structures.
 '''
 import os
 from copy import deepcopy as dcpy
