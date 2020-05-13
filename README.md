@@ -35,3 +35,5 @@ cardapio.txt: Restaurant menu.
 clienteTrain.txt: Dataset. If you'll change its format, remember to edit the conjunto_dados method from Classifier_inductor.py accordingly.
 
 entities.txt: Menu's entities.
+
+taking_order.py: This program defines the methods which the AI will use to take an order and account the bill.
