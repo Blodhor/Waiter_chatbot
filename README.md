@@ -33,3 +33,5 @@ Classifier_inductor.py : This program generates classifiers based on the well kn
 cardapio.txt: Restaurant menu.
 
 clienteTrain.txt: Dataset. If you'll change its format, remember to edit the conjunto_dados method from Classifier_inductor.py accordingly.
+
+entities.txt: Menu's entities.
