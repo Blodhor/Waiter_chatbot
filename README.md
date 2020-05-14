@@ -1,5 +1,6 @@
 # Waiter_chatbot
-I'm uploading this for beginners in AI to see. This may help you! 
+I'm uploading this for beginners in AI to see. This may help you!
+
 Here I am using the sklearn libraries, so just go check them out!!
 
 https://scikit-learn.org/stable/
