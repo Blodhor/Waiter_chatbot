@@ -37,7 +37,7 @@ clienteTrain.txt: Dataset. If you'll change its format, remember to edit the con
 
 entities.txt: Menu's entities.
 
-taking_order.py: This program defines the methods which the AI will use to take an order and account the bill.
+Taking_order.py: This program defines the methods which the AI will use to take an order and account the bill.
 
   Running this will get you something like this:
   
@@ -48,3 +48,4 @@ taking_order.py: This program defines the methods which the AI will use to take 
     Pedido:COCA	Quantidade:2	Preço total:10.00
     Total a pagar:	50.00
 
+Chatbot_beta.py: 
