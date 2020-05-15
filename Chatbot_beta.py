@@ -1,5 +1,6 @@
 '''
-This code gathers the intention classifier, order manager and the power of an indefinite loop to create the illusion of a thinking virtual waiter..
+This code gathers the intention classifier, order manager and the power of an indefinite loop to create the illusion of a
+thinking virtual waiter.
 '''
 
 '''
