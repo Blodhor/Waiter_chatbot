@@ -38,3 +38,13 @@ clienteTrain.txt: Dataset. If you'll change its format, remember to edit the con
 entities.txt: Menu's entities.
 
 taking_order.py: This program defines the methods which the AI will use to take an order and account the bill.
+
+  Running this will get you something like this:
+  
+    Peça algo do cardapio
+    Olá, eu gostaria de uma porção de aneis de cebola como entrada, dois tradicionais especiais e duas cocas por favor
+    Pedido:ANEIS DE CEBOLA	Quantidade:1	Preço total:10.00
+    Pedido:TRADICIONAIS ESPECIAIS	Quantidade:2	Preço total:30.00
+    Pedido:COCA	Quantidade:2	Preço total:10.00
+    Total a pagar:	50.00
+
